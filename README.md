@@ -21,5 +21,6 @@ Face_Detection_Using_OpenCV/
 ├── image_loader.py      # Utility for loading images
 ├── visualization.py     # Image processing for drawing rectangles
 ├── sample.jpg           # Image file for testing
+├── haarcascade.xml      # XML File Licence
 ├── requirements.txt     # Project dependencies
 └── README.md            # Documentation
