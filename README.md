@@ -12,6 +12,7 @@ A beginner-friendly, modular Computer Vision application that detects human face
 - **Modular Architecture:** The project is broken down into specific modules for loading, detecting, and visualizing, making the code highly maintainable.
 
 - **Built-in Resource Management:** Uses OpenCV’s native haarcascades path to avoid manual file management.
+## 📂 Project Structure
 ```text
 Face_Detection_Using_OpenCV/
 │
